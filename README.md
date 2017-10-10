@@ -1,2 +1,3 @@
 # E-Commerce-Home-Page
-test
+请点击查看页面效果
+https://alexmeooow.github.io/E-Commerce-Home-Page/
